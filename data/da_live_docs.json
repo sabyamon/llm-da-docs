@@ -1,0 +1,128 @@
+[
+  {
+    "url": "https://da.live/docs",
+    "title": "Dark Alley Docs",
+    "content": "Dark Alley Docs\n\n\n\n\n\nFor creators & developers\nDark Alley is purpose built for creators and developers.\n\n\nstyle\ncenter, container\n\n\nspacing-top\n1000\n\n\nspacing-bottom\n600\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreating content\nLearn how to browse content, create pages, upload media, edit sheets, and more on Dark Alley.\nLearn more\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdministration\nLearn how to administer your organization or site.\nRead admin docs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAPIs\nLearn about Dark Alley APIs for working with your content at scale.\nLearn more\n\n\n\n\n\nstyle\ncontainer\n\n\ngrid\n3\n\n\nspacing-bottom\n1000\n\n\ngap\n600\n\n\n\n\nFor the curious\nWhy does Dark Alley exist? What is it trying to solve? What is the roadmap? Don't worry, we got you.\n\n\nstyle\ncenter, container\n\n\nspacing-top\n1000\n\n\nspacing-bottom\n600\n\n\nbackground\n#EFEFEF\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWiki\nLearn why Dark Alley is being explored. Find out what it is and isn't in our developer wiki.\nRead more\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFAQ\nRead our most frequently asked questions.\nRead more\n\n\n\n\n\nstyle\ncontainer\n\n\ngrid\n2\n\n\nspacing-bottom\n1000\n\n\ngap\n600\n\n\nbackground\n#EFEFEF",
+    "images": [
+      "./media_1619342c9e91e4dbe69355c2679121170176a5bff.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_1b5881838659e700763076ec93ab051fc457b04ef.webp?width=750&format=webp&optimize=medium",
+      "./media_1b5881838659e700763076ec93ab051fc457b04ef.webp?width=750&format=webp&optimize=medium",
+      "./media_1b5881838659e700763076ec93ab051fc457b04ef.webp?width=750&format=webp&optimize=medium",
+      "./media_1b5881838659e700763076ec93ab051fc457b04ef.webp?width=750&format=webp&optimize=medium",
+      "./media_1b5881838659e700763076ec93ab051fc457b04ef.webp?width=750&format=webp&optimize=medium"
+    ],
+    "youtube_links": []
+  },
+  {
+    "url": "https://da.live/docs/authoring",
+    "title": "Authoring",
+    "content": "Authoring\nDark Alley provides document authoring for AEM Edge Delivery Services.\n\n\n\n\n\nTable of contents\n\nBrowsing & searching\nEditing documents\nCreating sheets\nWorking with media\n\n\n\nBasics\nBelow you will find details about basic editing. If you have made documents in Word or Google Docs, Dark Alley (DA) should feel familiar and intuitive.\n\n\n\n\n\n\n\n\n\n\nstyle\ncenter, container\n\n\nspacing\n1000\n\n\n\n\n\n\n\nTutorials\nThere are a few places where DA is different, and these differences are documented below.\n\n\n\nhttps://www.youtube.com/watch?v=3OKLTK0wE1E\n\nAuthoring\nTables\nEverything you've ever wanted to know about using tables.\n\n\n\nhttps://www.youtube.com/watch?v=sh9CZKL1F60\n\nOn-boarding\nCreate a new site\nCreate a new site from a github repository.\n\n\n\nhttps://www.youtube.com/watch?v=539rBPKwMbI\n\nAuthoring\nSearch & replace\nFind and replace content at scale.\n\n\n\n\n\nstyle\ncontainer\n\n\nspacing\n1000",
+    "images": [
+      "./media_1d2646396a0c7753ea247d790e821adbcd7b70707.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_1476088cd00ef413a9ab9b5220c3c2496eaf7507f.png?width=750&format=png&optimize=medium"
+    ],
+    "youtube_links": [
+      "https://www.youtube.com/watch?v=3OKLTK0wE1E",
+      "https://www.youtube.com/watch?v=sh9CZKL1F60",
+      "https://www.youtube.com/watch?v=539rBPKwMbI"
+    ]
+  },
+  {
+    "url": "https://da.live/docs/authoring/browse",
+    "title": "Browsing content",
+    "content": "Browsing content\nEverything you need to know browse content on Document Authoring.\n\n\n\n\n\nTips\nHere are some tips to get the most out of the browse and search views on Document Authoring.\n\n\nstyle\ncenter, container\n\n\nspacing-top\n800\n\n\nspacing-bottom\n400\n\n\n\n\n\nOrganizations and sites have configurations, folders and files do not. If you are in either an organization or site, the breadcrumb will expose a settings icon that allows you to set high performance settings for that area. This is currently limited to user permissions and AEM integrations.\nSelecting one or more items will expand the Action Bar. The action bar will present many common actions for your content. If you feel an action is missing, there is likely an app (bulk ops) that can accept the URLs shared from the Action Bar.\nSearch is powerful, precise, and basic. Basic + precise can be both a positive and negative. Searching for \"aem\" will result in only getting lower case results. Searching for \"AEM\" will yield different results. There are common search recipes listed below.\n\n\n\nBrowse basics\nBelow you will find details about basic browsing. If you have browsed content with SharePoint or Google Drive, Document Authoring should feel intuitive. Clicking on the name of an item will take you to the item.\n\n\n\n\n\n\n\n\n\n\nstyle\ncenter, container\n\n\nspacing\n1000\n\n\n\n\nSearch\nGet the most out of searching your content.\n\n\nstyle\ncenter, container\n\n\nspacing-top\n800\n\n\nspacing-bottom\n400\n\n\n\n\n\nSearching the root of the site will include all languages. This may not be desirable and you may want to scope your search to a series of sub-folders.\nFind & replace does not currently version on replace. Be absolutely sure you are making the desired replacement. If something goes wrong, you will need to restore from aem.page, aem.live or an older version. If you are unsure or want protections, ask an engineer to write a find & replace script.\n\n\n\nSearch query tips\nA couple recipes to make searching easier.\n\n\nstyle\ncenter, container\n\n\nspacing-top\n800\n\n\nspacing-bottom\n400\n\n\n\n\n\nSearch by block name w/ all variations - class=\"name-of-block\nSearch by block name with no variations - class=\"name-of-block\"\nSearch for link - href=\"https://url-of-link\"\nSearch for all fragments - /fragments/\nSearch for image - src=\"https://url-of-link\"\n\n\n\nspacing-bottom\n400",
+    "images": [
+      "./media_1d2646396a0c7753ea247d790e821adbcd7b70707.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_1cb3cde21844c9edb0ace79a3356404fef80fb97d.png?width=750&format=png&optimize=medium"
+    ],
+    "youtube_links": []
+  },
+  {
+    "url": "https://da.live/docs/authoring/documents",
+    "title": "Authoring docs",
+    "content": "Authoring docs\nEverything you need to know to create content in AEM Edge Delivery Services.\n\n\n\n\n\nConcepts\nThere are a few concepts that can help you get the most out of Document Authoring.\n\n\nstyle\ncenter, container\n\n\nspacing-top\n800\n\n\nspacing-bottom\n400\n\n\n\n\n\nThe edit menu is contextual. Example: Clicking into a table will expose the edit table button in the edit menu.\nPalettes stay open. Menus do not. Similar to Adobe Creative Cloud, larger palettes that may need to be used while working in the document will stay open. Library plugins can opt to close the library palette if the interaction should be a one-time event (like selecting a tag). Menus like the expanded text menu will close after click.\nThere can be subtle differences from other editors. Much like comparing Google Docs to Microsoft Word, Document Authoring does have subtle differences from existing authoring tools. We continue to refine these behaviors and try to take the best ideas where possible.\n\n\n\nBasics\nBelow you will find details about basic editing. If you have made documents in Word or Google Docs, Document Authoring (DA) should feel familiar and intuitive.\n\n\n\n\n\n\n\n\n\n\nstyle\ncenter, container\n\n\nspacing\n1000\n\n\n\n\nTables\nThe table button is contextually aware. Clicking into a table will change the add table button to an edit table button.\n\n\n\n\n\n\n\n\n\n\nstyle\ncenter, container\n\n\nspacing\n1000\n\n\n\n\nText\nWorking with text should feel natural in Document Authoring.\n\n\n\n\n\n\n\n\n\n\nstyle\ncenter, container\n\n\nspacing\n1000\n\n\n\n\n\n\n\nTutorials\nPrefer learning by video? We've got a few below.\n\n\n\nhttps://www.youtube.com/watch?v=3OKLTK0wE1E\n\nAuthoring\nTables\nEverything you've ever wanted to know about using tables.\n\n\n\nhttps://www.youtube.com/watch?v=539rBPKwMbI\n\nAuthoring\nSearch & replace\nFind and replace content at scale.\n\n\n\nhttps://www.youtube.com/watch?v=sh9CZKL1F60\n\nOn-boarding\nCreate a new site\nCreate a new site from a github repository.\n\n\n\n\n\nstyle\ncontainer\n\n\nspacing\n1000",
+    "images": [
+      "./media_1d2646396a0c7753ea247d790e821adbcd7b70707.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_1476088cd00ef413a9ab9b5220c3c2496eaf7507f.png?width=750&format=png&optimize=medium",
+      "./media_1e151b5cabddb854e54b7e35435772c1d5e0be5d9.png?width=750&format=png&optimize=medium",
+      "./media_126dc588e55d9681bcd17cc6c4f68c1928ebcb2e1.png?width=750&format=png&optimize=medium"
+    ],
+    "youtube_links": [
+      "https://www.youtube.com/watch?v=3OKLTK0wE1E",
+      "https://www.youtube.com/watch?v=539rBPKwMbI",
+      "https://www.youtube.com/watch?v=sh9CZKL1F60"
+    ]
+  },
+  {
+    "url": "https://da.live/docs/authoring/sheets",
+    "title": "Authoring sheets",
+    "content": "Authoring sheets\nHow to work with sheets in DA.\n\n\n\n\n\nBasics\nDocument Authoring sheets provide a way to work with spreadsheets. Here are a few tips to help get you started.\n\n\nstyle\ncenter, container\n\n\nspacing-top\n800\n\n\nspacing-bottom\n400\n\n\n\n\n\nAll sheet tabs are public by default. Because DA sheets are targeted towards public web content and not line of business applications, all sheets are public by default. If you would like a sheet to be private, you can prefix the sheet with \"private-\".\nDA sheets are not designed to replace all Excel use cases. At the time of this writing, DA sheets do not have feature parity with Excel and Google Sheets. If you require conditional formatting, formulas, or you have 10,000+ rows, we recommend you keep this content in SharePoint / Google Drive and use AEM's content overlay feature.\nPreviewing a sheet saves the sheet. - Unlike DA docs, you need to manually preview and save your sheet.\n\n\n\nBasics\nBelow you will find details about basic editing. If you have made spreadsheets in other applications like Excel or Google Sheets, Document Authoring (DA) should feel familiar and intuitive.\n\n\n\n\n\n\n\n\n\n\nstyle\ncenter, container\n\n\nspacing\n1000\n\n\n\n\nEdit sheet details\nYou can use the edit sheet button to edit the sheet name or delete the sheet completely.\n\n\n\n\n\n\n\n\n\n\nstyle\ncenter, container\n\n\nspacing\n1000\n\n\n\n\nEditing rows, columns, cells, and more\nRight clicking into a cell can help you work with your content. You can add rows and columns, delete them, or even export your sheet as a CSV.\n\n\n\n\n\n\n\n\n\n\nstyle\ncenter, container\n\n\nspacing\n1000",
+    "images": [
+      "./media_1d2646396a0c7753ea247d790e821adbcd7b70707.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_10235068e989e05dcf28766db2b6a7579663bd48a.png?width=750&format=png&optimize=medium",
+      "./media_1ad2c86000431a97c19c4d34c49f29f6801052f16.png?width=750&format=png&optimize=medium",
+      "./media_10773a7344d548bf092c2b4e9721ec52f36f7923f.png?width=750&format=png&optimize=medium"
+    ],
+    "youtube_links": []
+  },
+  {
+    "url": "https://da.live/docs/authoring/media",
+    "title": "Working with media",
+    "content": "Working with media\n\n\n\n\n\nInformation architecture\nDark Alley has three recommended patterns to handle media:\n\nAEM Assets\nDrag and drop\nMedia folder\n\n\n\nbackground\n#f1f1f1\n\n\nspacing\n1000\n\n\n\n\nSupported media types\nDark Alley supports the following media types:\n\nJPG\nPNG\nGIF\nSVG\nWebP\nPDF\n\n\n\nbackground\n#FFF\n\n\nspacing\n1000\n\n\n\n\nMedia patterns explained\nAEM Assets\nYou can store your media in AEM Assets. This is great for highly curated and re-used content.\nDrag and drop\nFor those that want a more friction-free approach to handling media, you can drag any supported media onto a doc. This is, by far, the easiest method to get imagery into your docs. The file will be imported into the same folder as the document.\nMedia folder\nDA provides basic media handling. If you do not have a license for AEM Assets, but wish to organize your media into a central location, we recommend using the media folder. Simply create a top-level folder called \"media\" and upload your content into it. You can open a media file, copy it to the clipboard, and paste it into your document.\n\n\nbackground\n#f1f1f1\n\n\nspacing\n1000\n\n\n\n\nContent migrations\nBecause DA simply references media, it is possible to do bulk content migrations. This could be anything from changing the source image in place to using search & replace to change a file name. Please consider the following when making these types of changes:\n\nAll changes in bulk still require a re-preview of the consuming docs so Edge Delivery Services can re-process the changed media.\nPlease note any cache constraints if changing content in AEM Assets. Ensure that you can see the changes in your publish environment before asking Edge Delivery Services to re-preview your content.\n\n\n\nbackground\n#FFF\n\n\nspacing\n1000",
+    "images": [
+      "./media_1d2646396a0c7753ea247d790e821adbcd7b70707.jpeg?width=750&format=jpeg&optimize=medium"
+    ],
+    "youtube_links": []
+  },
+  {
+    "url": "https://da.live/docs/administration",
+    "title": "Administration",
+    "content": "Administration\nAdminister your site configurations and settings.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEdit configs\nLearn how to edit configs for your org or your site.\nLearn more\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImport content\nLearn how to import your existing Edge Delivery Services site.\nGo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSetup translation\nLearn how to import your existing Edge Delivery Services site.\nGo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSetup Library\nLearn how to setup a library for blocks, placeholders, media, and more.\nGo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSetup AEM Assets\nLearn how to import your existing Edge Delivery Services site.\nGo\n\n\n\n\n\nstyle\ncontainer\n\n\ngrid\n3\n\n\ngap\n400\n\n\nspacing\n800\n\n\n\n\n\nEditing configs\nEnabling features",
+    "images": [
+      "./media_1d2646396a0c7753ea247d790e821adbcd7b70707.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_1e5cf3ebfa236a85397bc2e3e4cdc4c5c16306023.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_171f2eb78a23ef11ff410134ea913e29780cd1c56.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_17ac2d1d7b4fb41eeeee0637ee172a15505c2d32b.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_12691623d4d6b8d4dd63457939900e6f13065ed61.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_189379b088cd37b4dc199d3d2dae87df4436e7da7.jpeg?width=750&format=jpeg&optimize=medium"
+    ],
+    "youtube_links": []
+  },
+  {
+    "url": "https://da.live/docs/administration/configs",
+    "title": "Configs",
+    "content": "Configs\nSetup configs for your organization or site.\n\n\n\n\n\nConcepts\nWhen working with AEM Edge Delivery Services and Document Authoring, you will work with several different types of configs depending on the context of what task you are trying to accomplish.\n\n\nstyle\ncenter, container\n\n\nspacing-top\n800\n\n\nspacing-bottom\n400\n\n\n\n\n\nSidekick Config - Where general Sidekick, plugins, and DA app configs live.\nAEM Edge Delivery Config - All configs associated with your org or project.\nDA Config (High performance) - Used to spec authentication information or anything that requires very fast response times. This can be set for an organization or site.\nDA Config (Legacy) - Used to spec basic DA library details when high performance is not required. This can be set for a site.\n\n\n\nOrganization Config\nAdding users\n\nVisit: https://da.live/config#/name-of-org/ (or click the org breadcrumb settings icon in the browse view)\nAdd key | value column headers if they don't exist already.\nAdd admin.role.all | [email\u00a0protected]\nPaper plane > Save\n\n\n\n\n\n\n\n\n\n\n\nSite Config\nAdding AEM integration\nThe AEM integration provides an out of the box way to work with your AEM assets. It also allows you to use the DA App SDK to build rich applications that leverages any content stored on your AEM as a Cloud Service instance.\nStep 1 - AEM as a Cloud Service\nAn AEM environment config will need to be set. Details in the screenshot below. Expect a full restart (~10-20 minutes) when this is saved.\nEnvironment Configuration: ADOBE_PROVIDED_CLIENT_ID | darkalley\n\n\n\n\n\n\n\n\nStep 2 - Dark Alley\n\nVisit: https://da.live/config#/name-of-org/name-of-site/\nAdd key | value if it doesn't exist already.\nAdd aem.repositoryId | sub.youraemcloud.com\nPaper plane > Save\n\nStep 3 - Use it\nOpen any page and notice you have a new image icon in your toolbar. This will connect you to your AEM Assets.",
+    "images": [
+      "./media_1d2646396a0c7753ea247d790e821adbcd7b70707.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_10d33d5e7024db2003f39821dffd8d00cce10a49d.png?width=750&format=png&optimize=medium",
+      "./media_1b54d8986e4dc621d015aaaca05cf5039055dbb6a.png?width=750&format=png&optimize=medium"
+    ],
+    "youtube_links": []
+  },
+  {
+    "url": "https://da.live/cdn-cgi/l/email-protection",
+    "title": "Email Protection",
+    "content": "No Content",
+    "images": [],
+    "youtube_links": []
+  },
+  {
+    "url": "https://da.live/docs/administration/translation",
+    "title": "Translation, localization, and rollout",
+    "content": "Translation, localization, and rollout\nSetup translation, localization, and rollout for DA.\n\n\n\n\n\nVocabulary\n\nTranslate - The act of taking a document in a specific language and converting it a different language.\nLocalize - Converting a document to have more locale-centric or regionally-centric content.\nRollout - The technical term for copying documents from a language folder and into a locale or region.\n\n\n\nIntroduction\nDocument Authoring (DA) provides several services to help automate the translation, localization, and rollout of content. While on-demand services like Google Translate or even built-in browser translations can be convenient, they can have non-ideal SEO impacts.\nOne of the hallmark features of Adobe Experience Manager (AEM) is the ability to automate the process of translating, localizing, and rolling out content. In many respects, DA is no different. It provides many similar features, but with a focus on document-based authoring.\nManaging localized content at scale can be a challenge due to the amount of content that is created. DA gives you, the site owner, the freedom to be as high-touch or hands-off as needed for your project. For example: you are free to organize your site by language or by locale. You are free to auto-publish after rollout or require human authors to curate newly created content.\n\n\nStrategy\nAs we alluded to above, it's important to pick a localization strategy that fits your needs. Adobe's best practices can be read on aem.live. For our setup, we will follow the hybrid approach outlined in the best practices doc. A hybrid approach allows you to be mostly language-based, but provide affordances for locale-based content as necessary. This might be used for events in a region or used for locales where a dialect differs significantly from the source language and you have native speaking authors that can augment the translated content for the locale.\nLanguage Only\n\n/en\n/fr\n/de\n/cn\n\nLocale Only\n\n/en-us\n/en-ca\n/en-in\n/fr-fr\n/fr-ca\n/de-de\n/zh-cn\n\nHybrid\n\n/en\n/en/us\n/fr\n/fr/ca\n/de\n/de/ch\n/zh\n/zh/\n\nHigh-level considerations\nWhile a language-based approach can provide less overhead, you may run into complexities with commerce, currencies, and VAT.\nA locale-based approach may provide simplicity in commerce, but it will create undesired duplication of content that is unfriendly for SEO.\nA hybrid model where the site is predominantly language-based keeps content duplication low. You will still have similar language-based commerce considerations, but this would be considered the preferred option over locale-based.\nTranslation configuration\nBecause every site is different, DA provides a few configuration options to help you manage your content.\n\n\ntranslate.behavior - How to handle old content when new docs come back from translation.\n\noverwrite - Overwrite the old content. Useful for no-touch translation.\nmerge - Merge the old content with the new content. Useful if there is content you want to retain. This option requires human intervention after translation.\n\n\n\ntranslate.staging - Stage content in a separate area from your source content before sending to translation service.\n\non - This will copy your source content into a separate folder. This is typically done to make changes to your source docs before sending to translation but not affecting your live content.\noff - Send source documents directly to the translation service.\n\n\n\nrollout.behavior - How to handle old content when new docs get rolled out to the locale. This is only used for hybrid and locale-based localization strategies.\n\noverwrite - Overwrite the old content. Useful for no-touch translation.\nmerge - Merge the old content with the new content. Useful if there is content you want to retain. This option requires human intervention after translation.\n\n\n\n\n\n\n\n\n\n\n\nkey\nvalue\n\n\ntranslate.behavior\noverwrite\n\n\n\n\n\n\n\n\nstyle\ncontainer",
+    "images": [
+      "./media_1d2646396a0c7753ea247d790e821adbcd7b70707.jpeg?width=750&format=jpeg&optimize=medium"
+    ],
+    "youtube_links": []
+  },
+  {
+    "url": "https://da.live/docs/administration/aem-assets",
+    "title": "AEM Assets",
+    "content": "AEM Assets\nSetup AEM Assets for your site.\n\n\n\n\n\nSite Config\nAdding AEM integration\nThe AEM integration provides an out of the box way to work with your AEM assets. It also allows you to use the DA App SDK to build rich applications that leverages any content stored on your AEM as a Cloud Service instance.\nStep 1 - AEM as a Cloud Service\nAn AEM environment config will need to be set. Details in the screenshot below. Expect a full restart (~10-20 minutes) when this is saved.\nEnvironment Configuration: ADOBE_PROVIDED_CLIENT_ID | darkalley\n\n\n\n\n\n\n\n\nStep 2 - Dark Alley\n\nVisit: https://da.live/config#/name-of-org/name-of-site/\nAdd key | value if it doesn't exist already.\nAdd aem.repositoryId | sub.youraemcloud.com\nPaper plane > Save\n\nStep 3 - Use it\n\nOpen any page and notice you have a new image icon in your toolbar. This will open a modal to your AEM Assets.\nSelect the asset you want and it will import into your document.\nThe asset must be published for DA & Edge Delivery Services to see it.\n\nUse cases\nIn addition to having all the existing benefits of AEM Assets (governance, etc.), there are a couple use cases that can be unlocked related to DA:\n\nSwapping an existing asset with an updated version.\nBulk replacing an image.\n\nIt's important to know that even if you change a single asset, if that asset is used on 1000 pages, you will need to re-preview and re-publish those 1000 pages for Edge Delivery Services to ingest the new image and update the references on aem.page and aem.live.\nUse case 1: Swap an existing asset\nUser story: As an author, I would like to update an existing asset with more vibrant colors without having to change every page the asset is currently used on.\n\nOn da.live, use the side navigation panel to navigate to your assets using the \"files\" icon.\nIn Adobe Experience Manager Assets, navigate to the folder that contains the asset you want to replace.\nReplace the asset and re-publish it.\nNavigate to a page in DA that uses the asset in question.\nDue to caching constraints, it may take up to a few minutes for the asset to update.\nOnce you can see your changes reflected, Edge Delivery is ready to ingest it. Copy the asset publish URL.\nPaste the asset publish URL into DA's search. This will list every page on DA that is using the asset.\nUse the the share button (action bar > share icon) to copy the AEM URLs.\nPaste the URLs into DA's bulk preview & publish tool (da.live/apps/bulk). Run a preview & publish on these URLs.\n\nNote: If you have staged content updates in DA that are not currently live, the bulk preview and publish tools will push these live. You will want to take the necessary steps to ensure you are not pre-maturely publishing page updates as a result of this change.",
+    "images": [
+      "./media_1d2646396a0c7753ea247d790e821adbcd7b70707.jpeg?width=750&format=jpeg&optimize=medium",
+      "./media_1b54d8986e4dc621d015aaaca05cf5039055dbb6a.png?width=750&format=png&optimize=medium"
+    ],
+    "youtube_links": []
+  }
+]
