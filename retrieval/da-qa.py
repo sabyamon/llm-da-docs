@@ -1,17 +1,25 @@
 # Import necessary libraries
 import os
+import time
+from dotenv import load_dotenv  # For loading environment variables
 from langchain.chains import RetrievalQA  # For creating QA chains
 from langchain_openai import OpenAIEmbeddings  # For generating embeddings using OpenAI
 from langchain_community.vectorstores import Pinecone as LangchainPinecone  # Vector store integration
 from pinecone import Pinecone, ServerlessSpec  # Pinecone vector database
 from openai import OpenAI  # OpenAI API client
 
+# Load environment variables from .env file
+load_dotenv()
+
 # Step 1: Initialize OpenAI and embeddings
 # Set up API key for OpenAI
 openai_api_key = os.getenv("OPENAI_API_KEY")
+if not openai_api_key:
+    raise ValueError("OPENAI_API_KEY environment variable not found")
+
 # Initialize OpenAI client
 client = OpenAI(
-  api_key=openai_api_key,
+    api_key=openai_api_key,
 )
 # Set up embeddings model
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small", openai_api_key=openai_api_key)
@@ -29,7 +37,7 @@ index = pc.Index(INDEX_NAME)
 
 # Step 3: Create embeddings for the query
 # Define the query
-query = "How do I search in the DA?"
+query = "How do I make the search faster?"
 # Generate embeddings for the query using OpenAI
 res = client.embeddings.create(
     input=[query],
@@ -69,11 +77,13 @@ Answer:
 response = client.chat.completions.create(
     model=os.getenv("OPENAI_MODEL"),
     messages=[{"role": "user", "content": prompt}],
+    stream=True
 )
 
 # Step 7: Extract and print the answer
-for choice in response.choices:
-    resp = choice.message.content.strip()
-    print("Answer:", resp)
+for chunk in response:
+    if chunk.choices[0].delta.content is not None:
+        print(chunk.choices[0].delta.content, end="", flush=True)  # Print immediately
+        time.sleep(0.05)  # Small delay between characters
 
-print(response)
+print("\n")
